@@ -12,6 +12,6 @@ public class Test {
 	{
 		System.out.println("Hello Yash");
 		System.out.println("How are you doing !");
-		System.out.println("update 1");
+		System.out.println("update 2");
 	}
 }
